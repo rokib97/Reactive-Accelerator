@@ -83,5 +83,6 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   <>
     <Product />
     <Product />
+    <Product />
   </>
 );
